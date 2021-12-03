@@ -1,2 +1,2 @@
-# webapp1
-Test project regardinmg issue with delegates
+# Demo project for an issue regarding creation of a delegate
+Please use the Webapplication2.sln
